@@ -1,4 +1,4 @@
-DemoAspMySQL
+TeamDemoAspMySQL
 ============
 
-This is demo project. The project demonstrate how to work ASP.net and MySQL.
+This is team demo project. The project demonstrate how to work ASP.net and MySQL.
